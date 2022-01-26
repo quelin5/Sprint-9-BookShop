@@ -2,7 +2,7 @@
 Bookshop web designed to find new books, rate them, leave reviews and track your readings. 
 
 ### Technologies
-The project has been built using: 
+The project was built using: 
 * React js
 * JSX
 * CSS
